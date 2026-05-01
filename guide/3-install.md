@@ -31,6 +31,11 @@ adb shell msc
 ```cmd
 diskpart
 ```
+#### Use the Windows volume command
+> Use `list volume` to find it, replace `$` with the actual number of **WINRAPHAEL**
+```diskpart
+list volume
+```
 
 #### Select the Windows volume of the phone
 > Use `list volume` to find it, replace `$` with the actual number of **WINRAPHAEL**
