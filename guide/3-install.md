@@ -35,7 +35,7 @@ diskpart
 #### Select the Windows volume of the phone
 > Use `list volume` to find it, replace `$` with the actual number of **WINRAPHAEL**
 ```diskpart
-select volume $
+select volume 4
 ```
 
 #### Assign the letter X
@@ -46,7 +46,7 @@ assign letter x
 #### Select the ESP volume of the phone
 > Use `list volume` to find it, replace `$` with the actual number of **ESPRAPHAEL**
 ```diskpart
-select volume $
+select volume 5
 ```
 
 #### Assign the letter Y
