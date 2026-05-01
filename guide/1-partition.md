@@ -43,7 +43,7 @@ cd path\to\platform-tools
 ### Boot into the modified TWRP
 > While in fastboot mode, replace `path\to\modded-twrp-raphael.img` with the actual path of the image
 ```cmd
-fastboot boot path\to\modded-twrp-raphael.img
+./fastboot boot "C:\Users\natha\Downloads\raphael woa shit\modded-twrp-raphael.img"
 ```
 
 > [!Important]
