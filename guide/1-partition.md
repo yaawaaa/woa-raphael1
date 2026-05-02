@@ -96,6 +96,13 @@ rm 31
 > Replace **64GB** with the end value you want **userdata** to have. In this example your available usable space in Android will be 64GB-2080MB = **62GB**
 ```cmd
 mkpart userdata ext4 2080MB 204GB
+```
+#### or
+> Replace **2080MB** with the former start value of **userdata** which we just deleted
+>
+> Replace **64GB** with the end value you want **userdata** to have. In this example your available usable space in Android will be 64GB-2080MB = **62GB**
+```cmd
+mkpart userdata f2fs 2080MB 204GB
 ``` 
 
 #### Creating ESP partition
