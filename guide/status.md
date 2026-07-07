@@ -9,7 +9,7 @@ This project has reached its final stages. Small improvements may be made, but d
 #### Windows on ARM
 Please refer to this [status and the github link](https://github.com/new-WoA-Raphael/woa-raphael/blob/main/guide/status.md).
 
-#### Linux **maintained by voxelsy**
+#### Linux (**maintained by voxelsy**)
 * [x] Wi-Fi (2.4GHz, 5GHz)
 * [x] Bluetooth (file transfer, audio)
 * [x] USB (SSH, OTG)
