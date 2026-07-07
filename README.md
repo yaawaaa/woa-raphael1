@@ -1,33 +1,30 @@
-# Running Windows on the Xiaomi Mi 9T Pro / Redmi K20 Pro
-
-# Running Windows on the Xiaomi Mi 9T Pro / Redmi K20 Pro
-[![Telegram](https://img.shields.io/badge/Chat-Telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/woaraphael)
+# Triple booting on the Xiaomi Mi 9T Pro / Redmi K20 Pro
 
 ## ⚠️ Warning
-This project is not a part of, or linked in any way to, the deprecated Renegade Project. Failure to recognize this when asking for support will result in no assistance being given.
+This project is not a part of, or linked in any way to, the deprecated Renegade Project. We are managing an entirely different circus here by trying to triple boot Windows, Ubuntu, and Android on a single drive. Failure to recognize this when asking for support will result in no assistance being given, as we cannot help you if you do not even know which operating system is currently holding your bootloader hostage.
 
-We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~workers~~ cowboys, dead microSD cards, dead pmics, dead ram, dead display ics, dead cpus, any xiaomi/poco shenanigans, dead cats or dogs, nuclear wars or you getting fired because you forgot to boot back into android for the alarm. We're also not responsible if Divan Vorvanin molests you.
+We're not responsible for bricked devices, missing recovery partitions, dead xiaomi factoryline ~~cowboys~~ partition mages, dead microSD cards, dead pmics, dead ram, dead display ics, dead cpus, GRUB bootloader fistfights, Windows aggressively overwriting your ext4 partitions, Android losing its identity, any xiaomi/poco shenanigans, dead cats or dogs, nuclear wars or you getting fired because your phone got stuck in an infinite boot selection screen and failed to load Android for your morning alarm. We're also not responsible if Bill Gates or Linus Torvalds breaks into your house to personally judge your digital lifestyle choices.
 
-All the files here have been contributed by other users, here you will find a guide with the working files we managed to get. This is a delicate process, do it under your own risk and follow all the steps carefully.
+All the files here have been contributed by other brave community members, here you will find a guide with the working files we managed to cobble together to keep this fragile three-way OS peace treaty intact. This is a delicate process, do it under your own risk and follow all the steps carefully.
 
-**IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR ITS PARTITION TABLE OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU BRICK YOUR DEVICE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
+**IF YOU AREN'T COMFORTABLE MODDING YOUR PHONE OR TRASHING YOUR PARTITION TABLE TO FORCIBLY CRAM THREE OPERATING SYSTEMS INTO IT OR YOU ARE PARANOID OF BRICKING YOUR DEVICE CLICK AWAY NOW!!! YOU HAVE BEEN WARNED, YOU ARE ON YOUR OWN IF YOU TRIPLE BOOT YOUR PHONE INTO AN EARLY GRAVE!!! AGAIN! YOU HAVE BEEN WARNED!!!**
 
 ## Get started
 - [Project status](guide/status.md)
 
-- [Installation instructions](guide/installation-selection.md)
+- [Installation instructions](guide/installation.md)
 
 - [Troubleshooting](guide/troubleshooting.md)
 
 
 ## Miscellaneous
-- [Dualboot setup](guide/4-dualboot.md)
+- [Tripleboot setup](guide/4-tripleboot.md)
 
 - [Additional materials](guide/materials.md)
 
-- [Update drivers](guide/update-selection.md)
+- [Update drivers](guide/update-drivers.md)
 
-- [Reinstall instructions](guide/reinstall-selection.md)
+- [Reinstall instructions](guide/reinstall.md)
 
 - [Uninstall instructions](guide/uninstall.md)
 
