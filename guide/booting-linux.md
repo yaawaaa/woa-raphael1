@@ -47,10 +47,12 @@ sudo bash ~/shortcutsforubuntu.sh
 ```
 This is a ONE TIME STEP and it will create an Android and Windows shortcut/application that you could access in the app launcher of Ubuntu.
 
+### Switching OS'es Directly Inside Android
+Boot back to Android using the shortcuts if they work, if they don't go to [Troubleshooting]() page.
 ### Switching Operating Systems
 You are not locked into one OS. You can easily switch between your installed systems (Ubuntu, Windows, or Android) by using the shortcuts
 
-## [Last step: Setting up Android shortcuts](/guide/4-dualboot.md)
+## Finished!
 
 
 
