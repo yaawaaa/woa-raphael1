@@ -12,7 +12,7 @@ All the files here have been contributed by other brave community members, here 
 ## Get started
 - [Project status](guide/status.md)
 
-- [Installation instructions](guide/installation.md)
+- [Installation instructions](guide/partitioning-linux.md)
 
 - [Troubleshooting](guide/troubleshooting.md)
 
