@@ -4,7 +4,9 @@
 
 ### Prerequisites
 - [Modified TWRP](https://github.com/new-WoA-Raphael/woa-raphael/releases/download/Files/modded-twrp-raphael.img)
-
+  or
+- An OrangeFox recovery that you flashed with parted
+  
 - [triboot script]()
 
 - [Shortcut for Ubuntu]()
