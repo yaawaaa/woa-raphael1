@@ -7,9 +7,11 @@
 ### Prerequisites
 - [Modified TWRP](https://github.com/new-WoA-Raphael/woa-raphael/releases/download/Files/modded-twrp-raphael.img)
 
-- [Windows on ARM image](https://arkt-7.github.io/woawin/)
+- [triboot script]()
 
-- [Drivers & UEFI image](https://github.com/rexnox/windows_xiaomi_platforms/releases)
+- [Shortcut for Ubuntu]()
+
+- [Shortcut for OrangeFox](https://github.com/rexnox/windows_xiaomi_platforms/releases)
 
 
 ### Boot into the modified TWRP
