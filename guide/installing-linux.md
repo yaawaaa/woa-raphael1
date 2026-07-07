@@ -5,7 +5,7 @@
 
 - [parted](https://github.com/yaawaaa/woa-raphael1/releases/latest/download/parted)
 
-- [OrangeFox Recovery](https://github.com/yaawaaa/woa-raphael1/releases/latest/download/recovery.img)
+- [OrangeFox Recovery](https://github.com/yaawaaa/woa-raphael1/releases/download/recovery/recovery.img)
   
 ### Flashing the Ubuntu Rootfs
 > [!NOTE]
