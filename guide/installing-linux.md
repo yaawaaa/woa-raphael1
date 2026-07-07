@@ -29,16 +29,27 @@ dd if=/dev/block/by-name/boot of=/sdcard/Triboot_Assets/boot_android.img bs=4096
 ```cmd
 dd if=/dev/block/by-name/dtbo of=/sdcard/Triboot_Assets/dtbo_android.img bs=4096
 ```
+4. Push the custom U-Boot bootloader to the master assets folder
+> Replace `/path/to/your/u-boot.img` with the actual path of the image
+```cmd
+./adb push "/path/to/your/u-boot.img" /sdcard/Triboot_Assets/u-boot_ubuntu.img
+```
+5. Push the Linux kernel to the master assets folder
+> Replace `/path/to/your/xiaomi-k20pro-boot.img` with the actual path of the image
+```cmd
+./adb push "/path/to/your/xiaomi-k20pro-boot.img" /sdcard/Triboot_Assets/kernel_ubuntu.img
+```
+6. Push the UEFI to the master assets folder
+> Replace `/path/to/your/uefi.img` with the actual path of the image but it will be most likely on `/sdcard/uefi.img`
+```cmd
+./adb push "/path/to/your/uefi.img" /sdcard/Triboot_Assets/uefi_windows.img
+```
 Before finalizing, these files should be in the asset directory for your triple-boot script:
    - **boot_android.img** `(Your Android custom ROM kernel)`
    - **dtbo_android.img** `(Your Android custom ROM dtbo)`
    - **uefi_windows.img** `(The EDK2 UEFI boot file for Windows)`
    - **u-boot_ubuntu.img** `(Voxelsy's u-boot.img file renamed)`
    - **kernel_ubuntu.img** `(Voxelsy's xiaomi-k20pro-boot.img file renamed)`
-```
-For u-boot_ubuntu.img just rename Voxelsy's u-boot.img file
-For kernel_ubuntu.img just rename Voxelsy's xiaomi-k20pro-boot.img file
-For uefi_windows.img just rename the UEFI that is provided
 ```
 #### Finishing setup
 - Open the **Magisk** app again.
