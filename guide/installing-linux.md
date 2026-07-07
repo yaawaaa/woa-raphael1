@@ -88,6 +88,7 @@ Before finalizing, these files should be in the asset directory for your triple-
    - **u-boot_ubuntu.img** `(Voxelsy's u-boot.img file renamed)`
    - **kernel_ubuntu.img** `(Voxelsy's xiaomi-k20pro-boot.img file renamed)`
    - **parted** `(a partitioner without an extension)`
+**I recommend copying these files somewhere like in your pc or in cloud because we are gonna need all of these files in Ubuntu**
 
 ## [Next step: Booting Linux](booting-linux.md)
 
