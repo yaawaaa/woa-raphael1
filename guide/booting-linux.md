@@ -51,7 +51,7 @@ sudo bash ~/shortcutsforubuntu.sh
 This is a ONE TIME STEP and it will create an Android and Windows shortcut/application that you could access in the app launcher of Ubuntu.
 
 ### Switching OS'es Directly Inside Android
-Boot back to Android using the shortcuts if they work, if they don't go to [Troubleshooting](guide/troubleshooting.md) page. Root should be on for these steps.
+Boot back to Android using the shortcuts if they work, if they don't go to [Troubleshooting](troubleshooting.md) page. Root should be on for these steps.
 1. Install **Termux** and **Termux:Widget** and run this command:
 ```cmd
 mkdir -p ~/.shortcuts/tasks
