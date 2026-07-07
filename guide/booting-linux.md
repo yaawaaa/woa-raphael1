@@ -28,7 +28,7 @@ It should boot you to Ubuntu. DON'T BOOT BACK TO ANDROID YET!!!
 mkdir -p ~/Triboot_Assets
 ```
 
-2. Move the files inside the Triboot_Assets folder into the new **Triboot_Assets** folder in Ubuntu that we just created.
+2. Move the files that we copied earlier inside the /sdcard/Triboot_Assets folder into the Ubuntu **Triboot_Assets** folder that we just created.
 `I don't know how to copy the files from the device itself so you need a pc or a cloud service to upload the file for this step`
 
 ### Switching OS'es Directly Inside Ubuntu
