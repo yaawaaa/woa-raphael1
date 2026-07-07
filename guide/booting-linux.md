@@ -1,8 +1,6 @@
-<img align="right" src="https://github.com/new-WoA-Raphael/woa-raphael/blob/main/media/raphaelbutnotass.png" width="350" alt="Windows 11 running on a Redmi K20 Pro">
+# Triple booting on the Xiaomi Mi 9T Pro / Redmi K20 Pro
 
-# Running Windows on the Xiaomi Mi 9T Pro / Redmi K20 Pro
-
-## Installing Windows
+## Booting Linux
 
 ### Prerequisites
 - [Modified TWRP](https://github.com/new-WoA-Raphael/woa-raphael/releases/download/Files/modded-twrp-raphael.img)
@@ -11,7 +9,7 @@
 
 - [Shortcut for Ubuntu]()
 
-- [Shortcut for OrangeFox](https://github.com/rexnox/windows_xiaomi_platforms/releases)
+- [Shortcut for OrangeFox]()
 
 
 ### Boot into the modified TWRP
